@@ -1,0 +1,15 @@
+#Environments
+.env
+.env.local
+.env.development
+.env.production
+
+#Dependencies
+node_modules/
+*/node_modules/
+client/node_modules/
+server/node_modules/
+
+# TypeScript
+dist/
+*.tsbuildinfo
